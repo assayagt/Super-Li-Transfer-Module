@@ -1,0 +1,31 @@
+T̲R̲A̲N̲S̲F̲E̲R̲ ̲D̲E̲T̲A̲I̲L̲S̲:̲
+
+       Document ID: 2   , Date: 2024-01-03 , Track's number: 38475623 , Leaving time: 06:00 , Driver name: Gilad 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+ ̲S̲O̲U̲R̲C̲E̲ ̲D̲E̲T̲A̲I̲L̲S̲:̲ ̲
+
+    Source name: Osem 
+ Address: HaZaiyt 90 Haifa , Contact name: Carmel  , Phone: 02-9872534 , Truck weight: None 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+D̲E̲S̲T̲I̲N̲A̲T̲I̲O̲N̲ ̲D̲E̲T̲A̲I̲L̲S̲:̲
+
+ Destination name: HaYarkaniya Shel Moshe 
+ Address: Ben-Gurion 34 Beer Sheva , Contact name: Moshe , Phone: 052-3878098    , Truck Weight: 0 
+
+ Destination name: Tnuva 
+ Address: Bugrashov 12 Tel Aviv , Contact name: Daniel  , Phone: 03-9871324    , Truck Weight: 0 
+
+ Destination name: SuperLi Metula 
+ Address: HaKneset 7 Metula , Contact name: Mati  , Phone: 04-1276540 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+T̲R̲A̲N̲S̲F̲E̲R̲ ̲I̲T̲E̲M̲S̲ ̲C̲O̲N̲T̲E̲N̲T̲:̲
+
+    Item name: Potato      , Quantity: 450 
+    Item name: Tomato      , Quantity: 900 
+ Item name: Frozen Pizza      , Quantity: 270 
+      Item name: Yolo      , Quantity: 500 
+     Item name: Bamba      , Quantity: 700 
+ Item name: Chocolate Ice Cream      , Quantity: 200 

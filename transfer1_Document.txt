@@ -1,0 +1,26 @@
+T̲R̲A̲N̲S̲F̲E̲R̲ ̲D̲E̲T̲A̲I̲L̲S̲:̲
+
+       Document ID: 1   , Date: 2024-01-02 , Track's number: 80619991 , Leaving time: 06:00 , Domain.Transfer.Transfer.Driver name: iftach 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+ ̲S̲O̲U̲R̲C̲E̲ ̲D̲E̲T̲A̲I̲L̲S̲:̲ ̲
+
+ Source name: HaYarkaniya Shel Moshe 
+Address: Ben-Gurion 34 Beer Sheva , Contact name: Moshe , Phone: 052-3878098    , Truck Weight: 3 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+D̲E̲S̲T̲I̲N̲A̲T̲I̲O̲N̲ ̲D̲E̲T̲A̲I̲L̲S̲:̲
+
+ Destination name: Osem 
+Address: HaZaiyt 90 Haifa , Contact name: Carmel  , Phone: 02-9872534   , Truck Weight: 60 
+
+ Destination name: SuperLi Ashkelon 
+ Address: Agamim 12 Ashkelon  , Contact name: Toy  , Phone: 08-4765182 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+T̲R̲A̲N̲S̲F̲E̲R̲ ̲I̲T̲E̲M̲S̲ ̲C̲O̲N̲T̲E̲N̲T̲:̲
+    Item name: Tomato      , Quantity: 600 
+    Item name: Potato      , Quantity: 450 
+      Item name: Yolo      , Quantity: 500 
+ Item name: Frozen Pizza      , Quantity: 100 
+ Item name: Cream Cheese      , Quantity: 400 
